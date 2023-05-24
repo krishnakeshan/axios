@@ -11,7 +11,7 @@
 [![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
 [![Known Vulnerabilities](https://snyk.io/test/npm/axios/badge.svg)](https://snyk.io/test/npm/axios)
 
-Promise based HTTP client for the browser and node.js
+Promise based HTTP client for the browser and Node.js
 
 > New axios docs website: [click here](https://axios-http.com/)
 
